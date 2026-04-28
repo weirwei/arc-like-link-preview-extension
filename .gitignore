@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Local tooling
+.claude/
+.spec-workflow/
+
+# Dependencies
+node_modules/
+
+# Build and packaging artifacts
+dist/
+build/
+coverage/
+*.zip
+*.crx
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*

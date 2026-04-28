@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "リンクプレビュー"
+  },
+  "extDescription": {
+    "message": "新しいタブを開かずに、オーバーレイでリンク先をプレビューします。"
+  },
+  "popupHeader": {
+    "message": "リンクプレビュー"
+  },
+  "enablePreview": {
+    "message": "プレビューを有効化"
+  },
+  "interceptMode": {
+    "message": "インターセプトモード"
+  },
+  "modeNewTabOnly": {
+    "message": "新しいタブのリンクのみ"
+  },
+  "modeAll": {
+    "message": "すべてのリンク"
+  },
+  "autoOpenBlocked": {
+    "message": "ブロック時に自動で新しいタブで開く"
+  },
+  "shortcutLabel": {
+    "message": "キーボードショートカット"
+  },
+  "openInNewTab": {
+    "message": "新しいタブで開く"
+  },
+  "shortcutRecording": {
+    "message": "キーを押してください..."
+  }
+}

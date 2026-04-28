@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "链接预览"
+  },
+  "extDescription": {
+    "message": "在浮层中预览链接内容，而不是打开新标签页。"
+  },
+  "popupHeader": {
+    "message": "链接预览"
+  },
+  "enablePreview": {
+    "message": "启用预览"
+  },
+  "interceptMode": {
+    "message": "拦截模式"
+  },
+  "modeNewTabOnly": {
+    "message": "仅新标签页链接"
+  },
+  "modeAll": {
+    "message": "所有链接"
+  },
+  "autoOpenBlocked": {
+    "message": "拦截失败时自动在新标签页打开"
+  },
+  "shortcutLabel": {
+    "message": "快捷键"
+  },
+  "openInNewTab": {
+    "message": "在新标签页打开"
+  },
+  "shortcutRecording": {
+    "message": "请按下按键..."
+  }
+}

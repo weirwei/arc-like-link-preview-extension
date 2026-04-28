@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "連結預覽"
+  },
+  "extDescription": {
+    "message": "在浮層中預覽連結內容，而不是開啟新分頁。"
+  },
+  "popupHeader": {
+    "message": "連結預覽"
+  },
+  "enablePreview": {
+    "message": "啟用預覽"
+  },
+  "interceptMode": {
+    "message": "攔截模式"
+  },
+  "modeNewTabOnly": {
+    "message": "僅新分頁連結"
+  },
+  "modeAll": {
+    "message": "所有連結"
+  },
+  "autoOpenBlocked": {
+    "message": "攔截失敗時自動在新分頁開啟"
+  },
+  "shortcutLabel": {
+    "message": "快速鍵"
+  },
+  "openInNewTab": {
+    "message": "在新分頁開啟"
+  },
+  "shortcutRecording": {
+    "message": "請按下按鍵..."
+  }
+}

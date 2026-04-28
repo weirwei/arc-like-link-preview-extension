@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "Arc-like Link Preview"
+  },
+  "extDescription": {
+    "message": "Preview links in a floating overlay instead of opening new tabs."
+  },
+  "popupHeader": {
+    "message": "Link Preview"
+  },
+  "enablePreview": {
+    "message": "Enable Preview"
+  },
+  "interceptMode": {
+    "message": "Intercept Mode"
+  },
+  "modeNewTabOnly": {
+    "message": "New tab links only"
+  },
+  "modeAll": {
+    "message": "All links"
+  },
+  "autoOpenBlocked": {
+    "message": "Auto open blocked sites in new tab"
+  },
+  "shortcutLabel": {
+    "message": "Keyboard Shortcut"
+  },
+  "openInNewTab": {
+    "message": "Open in new tab"
+  },
+  "shortcutRecording": {
+    "message": "Press keys..."
+  }
+}
